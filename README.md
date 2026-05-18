@@ -182,7 +182,7 @@ Built for **Gemma 4 Good** — using AI for positive societal impact.
 
 ### Links
 
-- **Repository:** [github.com/AmirmLotfy/incaseof](https://github.com/AmirmLotfy/incaseof)
+- **Repository:** [github.com/mokjh/incaseof](https://github.com/mokjh/incaseof)
 - **Model:** [Gemma 4 E2B IT (.litertlm)](https://huggingface.co/litert-community/gemma-4-E2B-it-litert-lm)
 - **LiteRT-LM Docs:** [ai.google.dev/edge/litert-lm/android](https://ai.google.dev/edge/litert-lm/android)
 - **Hackathon:** [Kaggle Gemma 4 Good](https://www.kaggle.com/competitions/gemma-4-good-hackathon)

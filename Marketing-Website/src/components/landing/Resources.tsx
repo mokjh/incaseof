@@ -2,9 +2,9 @@ import { Play, Github, Download, FileText, Check } from "lucide-react";
 
 const LINKS = [
   { icon: Play, label: "Watch Demo Video", href: "#", primary: false },
-  { icon: Github, label: "View Source Code", href: "https://github.com/AmirmLotfy/incaseof", primary: false },
+  { icon: Github, label: "View Source Code", href: "https://github.com/mokjh/incaseof", primary: false },
   { icon: Download, label: "Download APK", href: "/downloads/in-case-of-v1.apk", primary: true, download: true },
-  { icon: FileText, label: "Read Writeup", href: "https://github.com/AmirmLotfy/incaseof/blob/main/KAGGLE_WRITEUP.md", primary: false },
+  { icon: FileText, label: "Read Writeup", href: "https://github.com/mokjh/incaseof/blob/main/KAGGLE_WRITEUP.md", primary: false },
 ];
 
 const CHECKLIST = [

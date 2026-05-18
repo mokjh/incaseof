@@ -100,7 +100,7 @@ The local-first architecture means this works without cell coverage for the AI p
 
 ## Links
 
-- **Code Repository:** [GitHub — In Case Of](https://github.com/AmirmLotfy/incaseof)
+- **Code Repository:** [GitHub — In Case Of](https://github.com/mokjh/incaseof)
 - **Demo Video:** [YouTube — In Case Of Demo](https://youtube.com/watch?v=XXXXX) *(update with your actual URL)*
 - **Model:** [Gemma 4 E2B IT on HuggingFace](https://huggingface.co/litert-community/gemma-4-E2B-it-litert-lm)
 - **LiteRT-LM Docs:** [ai.google.dev/edge/litert-lm/android](https://ai.google.dev/edge/litert-lm/android)
